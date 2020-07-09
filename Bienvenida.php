@@ -1,0 +1,4 @@
+<?
+echo "Bienvenido a todos";
+
+?>
